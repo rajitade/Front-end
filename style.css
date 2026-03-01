@@ -1,0 +1,15 @@
+/* Version One Styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    color: #555;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
